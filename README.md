@@ -1,4 +1,4 @@
-# make_your_burger
+# Project Make Your Burger
 
 ## Project setup
 ```
@@ -7,6 +7,7 @@ npm install
 
 ### Compiles and hot-reloads for development
 ```
+npm run backend
 npm run serve
 ```
 
